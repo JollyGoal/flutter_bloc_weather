@@ -20,7 +20,8 @@ dependencies:
 
 ## Demo GIF
 
-![demo](release/demo.mp4)
+[Download preview demo.mp4](release/demo.mp4)
+![gif](release/demo.gif)
 
 ## Screenshots
 
